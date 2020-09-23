@@ -18,7 +18,8 @@ Here is a GIF from a similar project made by Thomas Martin.
 ## Activate Google Colab
 Instead of installing python locally on your computer, Google Colab allows you to use python 'in the cloud'. Basically, you check out a Google computer and use it for free - pretty amazing. To install Google Colab in Google Drive, search Colaboratory in connected apps. This needs to be in the browser google drive, not the local folder on your hard drive.
 
-Short gif [here](https://www.dropbox.com/s/nns9lq5se10fshx/colab_install.gif?dl=0) from a similar project made by Thomas Martin.
+Here is another GIF from a similar project made by Thomas Martin.
+![Colab_install](colab_install.gif)
 
 ## Open the ipynb file
 In the web browser, navigate to the "CrudeAudacity_Geospatial.ipynb" file - right click on the .ipynb file to open with Google Colab.
