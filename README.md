@@ -10,7 +10,7 @@ If you don't have a google account, please create one, as we will be working fro
 If you have a gmail, you have an account already! (the free one will work fine, no need for Colab Pro).
 
 ## Download the .ipynb file
-Download the "CrudeAudacityMaps" folder from this repository (green button in the upper right) and put it into your Google drive (you will have to unzip it). Doesnt really matter where you put it, but if you have a folder called 'Colab Notebook', put it in there. 
+Download the "CrudeAudacityMaps" folder from this repository (green button in the upper right) and put it into your Google drive (you will have to unzip it). Doesn't really matter where you put it, but if you have a folder called 'Colab Notebooks', put it in there. 
 
 Short gif [here](https://www.dropbox.com/s/5gde0jgxvclv7bn/github.gif?dl=0) from a similar project made by Thomas Martin.
 
