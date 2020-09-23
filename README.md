@@ -1,5 +1,5 @@
 # CrudeAudacityMaps
-"Geospatial mapping in python" webinar for [Crude Audacity podcast](https://podcasts.apple.com/us/podcast/the-crude-audacity/id1480993402), September 23, 2020.
+"Geospatial mapping in python" webinar for the [Crude Audacity podcast](https://podcasts.apple.com/us/podcast/the-crude-audacity/id1480993402), September 23, 2020.
 
 # Instructions
 Instructions/Installation for use with [Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb):
